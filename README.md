@@ -1,13 +1,8 @@
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-**Hi ! I am DancinnCoder, Hamin :)** 🌵🌷🌴🌴🌵🪻
+**Hi ! I am DancinnCoder, Hamin :)** 
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-
-
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=javascript&logoColor=white">
-
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 
 ## **Why DancinnCoder?**
@@ -36,6 +31,9 @@ I am a person who loves to explore with codes and specially fall in love with fr
 { JavaScript, HTML, CSS }  *30/10/2023 - 24/10/2023*
 
 [**Portfolio Website**](https://github.com/dancinncoder/Hamin-Lee-Website)
-{ BootStrap, HTML, CSS }  *30/10/2023 - 24/10/2023
+{ BootStrap, HTML, CSS } 
 
+## Tech Stack
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=javascript&logoColor=white">
 
