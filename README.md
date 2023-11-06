@@ -1,8 +1,6 @@
 
-<img width="900px" height="250px" src="https://github.com/dancinncoder/Hamin-Lee-Website/assets/127386988/b95bdd24-f144-4b72-ac65-96915c7da28f">
+<img width="900px" height="250px" src="https://github.com/dancinncoder/Hamin-Lee-Website/assets/127386988/d90f8534-1557-43bc-965b-899628d412b6">
 
-
-<div align="left"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=javascript&logoColor=white"></div>
 
 
 ## **Why DancinnCoder?**
