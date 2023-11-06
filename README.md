@@ -17,7 +17,7 @@ I am a person who loves to explore in codes and especially fall in love with fro
 
 1️⃣ I have B2B digital marketing insights due to the 2 years of field experience as a digital marketing specialist
 
-2️⃣ I know the logic and the functions of languages by studies of linguistics in the university
+2️⃣ I know the logic and the functions of languages by studies of linguistics in the university  <i>(my first computer language was Perl👻)</i>
 
 
 ## Check my current projects!
