@@ -9,7 +9,7 @@ Because I like to dance 💃
 
 ## **So tell me about yourself !**
 
-I am a person who loves to explore with codes and specially fall in love with front-end web development 🏹 💙
+I am a person who loves to explore in codes and especially fall in love with front-end web development 🏹 💙
 
 ## **What makes you special as a developer?**
 
