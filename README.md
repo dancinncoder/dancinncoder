@@ -1,8 +1,8 @@
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-**Hi ! I am DancinnCoder, Hamin :)** 
+<img width="1100px" height="280px" src="https://github.com/dancinncoder/Hamin-Lee-Website/assets/127386988/b95bdd24-f144-4b72-ac65-96915c7da28f">
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+<div align="right"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=javascript&logoColor=white"></div>
 
 
 ## **Why DancinnCoder?**
@@ -19,7 +19,7 @@ I am a person who loves to explore with codes and specially fall in love with fr
 
 1️⃣ I have B2B digital marketing insights due to the 2 years of field experience as a digital marketing specialist
 
-2️⃣ I know the logic and the functions of languages by studies of linguistics in university
+2️⃣ I know the logic and the functions of languages by studies of linguistics in the university
 
 
 ## Check my current projects!
@@ -34,6 +34,7 @@ I am a person who loves to explore with codes and specially fall in love with fr
 { BootStrap, HTML, CSS } 
 
 ## Tech Stack
+<div><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=javascript&logoColor=white"></div>
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=javascript&logoColor=white">
+
 
