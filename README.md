@@ -23,7 +23,7 @@ I am a person who loves to explore in codes and especially fall in love with fro
 ## Check my current projects!
 
 [**Todo List Website**](https://github.com/dancinncoder/Todo-List-React-)
-{ React, JavaScript, HTML, CSS }  *04/11/2023 - 06/11/2023*
+{ React, JavaScript, HTML, CSS }  *03/11/2023 - 06/11/2023*
 
 [**Find Movie Website**](https://github.com/cceminh/team6-moviesearchsite)
 { JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023*
