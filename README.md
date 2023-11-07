@@ -26,7 +26,7 @@ I am a person who loves to explore in codes and especially fall in love with fro
 { React, JavaScript, HTML, CSS }  *04/11/2023 - 06/11/2023*
 
 [**Find Movie Website**](https://github.com/cceminh/team6-moviesearchsite)
-{ JavaScript, HTML, CSS }  *30/10/2023 - 24/10/2023*
+{ JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023*
 
 [**Portfolio Website**](https://github.com/dancinncoder/Hamin-Lee-Website)
 { BootStrap, HTML, CSS } 
