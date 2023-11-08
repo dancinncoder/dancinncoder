@@ -5,7 +5,7 @@
 
 ## **Why DancinnCoder?**
 
-Because I like to dance 💃
+Because I am a coder who likes to dance 💃
 
 ## **So tell me about yourself !**
 
