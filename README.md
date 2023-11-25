@@ -21,6 +21,9 @@ I am a person who loves to explore codes and especially fell in love with front-
 
 
 ## Check my current projects!
+[**Music Community Website**](https://github.com/dygmm4288/team-newsfeed)
+{ React, JavaScript, Firebase, Redux, ContextAPI, HTML, CSS } *21/11/2023 - 27/11/2023*
+
 [**Fan Letter Website**](https://github.com/dancinncoder/fanletter/tree/redux)
 { React, JavaScript, Redux, ContextAPI, HTML, CSS } *10/11/2023 - 20/11/2023*
 
