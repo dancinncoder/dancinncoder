@@ -21,17 +21,19 @@ I am a person who loves to explore codes and especially fell in love with front-
 
 
 ## Check my current projects!
+### > Group Projects
 [**Music Community Website**](https://github.com/dygmm4288/team-newsfeed)
 { React, JavaScript, Firebase, Redux, ContextAPI, HTML, CSS } *21/11/2023 - 27/11/2023*
 
+[**Find Movie Website**](https://github.com/cceminh/team6-moviesearchsite)
+{ JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023*
+
+### > Individual Projects
 [**Fan Letter Website**](https://github.com/dancinncoder/fanletter/tree/redux)
 { React, JavaScript, Redux, ContextAPI, HTML, CSS } *10/11/2023 - 20/11/2023*
 
 [**Todo List Website**](https://github.com/dancinncoder/Todo-List-React-)
 { React, JavaScript, HTML, CSS }  *03/11/2023 - 06/11/2023*
-
-[**Find Movie Website**](https://github.com/cceminh/team6-moviesearchsite)
-{ JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023*
 
 [**Portfolio Website**](https://github.com/dancinncoder/Hamin-Lee-Website)
 { BootStrap, HTML, CSS } 
