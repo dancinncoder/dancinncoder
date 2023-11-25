@@ -21,6 +21,8 @@ I am a person who loves to explore codes and especially fell in love with front-
 
 
 ## Check my current projects!
+[**Fan Letter Website**] (https://github.com/dancinncoder/fanletter/tree/redux)
+{ React, JavaScript, Redux, ContextAPI, HTHML, CSS } *10/11/2023 - 20/11/2023*
 
 [**Todo List Website**](https://github.com/dancinncoder/Todo-List-React-)
 { React, JavaScript, HTML, CSS }  *03/11/2023 - 06/11/2023*
