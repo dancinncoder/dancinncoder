@@ -23,10 +23,10 @@ I am a person who loves to explore codes and especially fell in love with front-
 ## Check my current projects!
 ### > Group Projects
 [**Music Community Website**](https://github.com/dancinncoder/Beat-Bridge)
-{ React, JavaScript, Firebase, Redux, ContextAPI, HTML, CSS } *21/11/2023 - 27/11/2023* [**View Website**](https://www.beat-bridge.store/)
+{ React, JavaScript, Firebase, Redux, ContextAPI, HTML, CSS } *21/11/2023 - 27/11/2023* [**Website**](https://www.beat-bridge.store/)
 
 [**Find Movie Website**](https://github.com/cceminh/team6-moviesearchsite)
-{ JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023* [**View Website**](https://cceminh.github.io/team6-moviesearchsite/)
+{ JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023* [**Website**](https://cceminh.github.io/team6-moviesearchsite/)
 
 ### > Individual Projects
 [**Fan Letter Website**](https://github.com/dancinncoder/fanletter/tree/redux)
