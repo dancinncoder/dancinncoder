@@ -22,7 +22,7 @@ I am a person who loves to explore codes and especially fell in love with front-
 
 ## Check my current projects!
 ### > Group Projects
-[**Music Community Website**](https://github.com/dygmm4288/team-newsfeed/tree/main)
+[**Music Community Website**](https://github.com/dancinncoder/Beat-Bridge)
 { React, JavaScript, Firebase, Redux, ContextAPI, HTML, CSS } *21/11/2023 - 27/11/2023* [**View Website**](https://www.beat-bridge.store/)
 
 [**Find Movie Website**](https://github.com/cceminh/team6-moviesearchsite)
