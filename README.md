@@ -22,21 +22,19 @@ I am a person who loves to explore codes and especially fell in love with front-
 
 ## Check my current projects!
 ### > Group Projects
+[**Flatmate Search Website**](https://github.com/yeolsss/outsourcing-project)
+{ React, JavaScript, React-query, Redux(RTK), Firebase, HTML, CSS } *05/12/2023 - 11/12/2023*
+
 [**Music Community Website**](https://github.com/dancinncoder/Beat-Bridge)
-{ React, JavaScript, Firebase, Redux, ContextAPI, HTML, CSS } *21/11/2023 - 27/11/2023* [**Website**](https://beat-bridge.vercel.app/)
+{ React, JavaScript, Firebase, Redux, ContextAPI, HTML, CSS } *21/11/2023 - 27/11/2023*
 
 [**Find Movie Website**](https://github.com/cceminh/team6-moviesearchsite)
-{ JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023* [**Website**](https://cceminh.github.io/team6-moviesearchsite/)
+{ JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023*
 
 ### > Individual Projects
 [**Fan Letter Website**](https://github.com/dancinncoder/fanletter/tree/redux)
 { React, JavaScript, Redux, ContextAPI, HTML, CSS } *10/11/2023 - 20/11/2023*
 
-[**Todo List Website**](https://github.com/dancinncoder/Todo-List-React-)
-{ React, JavaScript, HTML, CSS }  *03/11/2023 - 06/11/2023*
-
-[**Portfolio Website**](https://github.com/dancinncoder/Hamin-Lee-Website)
-{ BootStrap, HTML, CSS } 
 
 ## Tech Stack
 <div><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=javascript&logoColor=white"></div>
