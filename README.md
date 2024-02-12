@@ -22,11 +22,12 @@ I am a person who loves to explore codes and especially fell in love with front-
 
 ## Check my current projects!
 ### > Group Projects
+
+[**Soul Mate Matching Service**](https://crosswalk-zeta.vercel.app/)
+{ React, JavaScript, Typescript, Next.js, Supabase, Recoil, Tailwind CSS, PostgreSQL HTML, CSS } *04/01/2024 - 08/02/2024*
+
 [**Flatmate Search Website**](https://github.com/yeolsss/outsourcing-project)
 { React, JavaScript, React-query, Redux(RTK), Firebase, HTML, CSS } *05/12/2023 - 11/12/2023*
-
-[**Music Community Website**](https://github.com/dancinncoder/Beat-Bridge)
-{ React, JavaScript, Firebase, Redux, ContextAPI, HTML, CSS } *21/11/2023 - 27/11/2023*
 
 [**Find Movie Website**](https://github.com/cceminh/team6-moviesearchsite)
 { JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023*
