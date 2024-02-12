@@ -23,7 +23,7 @@ I am a person who loves to explore codes and especially fell in love with front-
 ## Check my current projects!
 ### > Group Projects
 
-[**Soul Mate Matching Service**](https://crosswalk-zeta.vercel.app/)
+[**Soul Mate Matching Service**](https://github.com/volant97/Crosswalk)
 { React, JavaScript, Typescript, Next.js, Supabase, Recoil, Tailwind CSS, PostgreSQL HTML, CSS } *04/01/2024 - 08/02/2024*
 
 [**Flatmate Search Website**](https://github.com/yeolsss/outsourcing-project)
