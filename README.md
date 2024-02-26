@@ -33,7 +33,7 @@ I am a person who loves to explore codes and especially fell in love with front-
 { JavaScript, HTML, CSS }  *24/10/2023 - 30/10/2023*
 
 ### > Individual Projects
-[**Fan Letter Website**](https://github.com/dancinncoder/fanletter/tree/redux)
+[**Fan Letter Website**](https://github.com/dancinncoder/fanletter/tree/context2?tab=readme-ov-file)
 { React, JavaScript, Redux, ContextAPI, HTML, CSS } *10/11/2023 - 20/11/2023*
 
 
