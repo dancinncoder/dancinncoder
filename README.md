@@ -15,12 +15,20 @@ I am a person who loves to explore codes and especially fell in love with front-
 
 **I can answer with two keywords** : digital marekting / language
 
-1️⃣ I have B2B digital marketing insights due to the 2 years of field experience as a digital marketing specialist
+1️⃣ I have B2B digital marketing insights due to the 2 years of field experience as a digital marketing specialist focusing on planning campaign landing pages and content creation.
 
-2️⃣ I know the logic and the functions of languages by studies of linguistics in the university  <i>(my first computer language was Perl👻)</i>
+2️⃣ I have proven hands-on experience in developing commercial e-commerce/static websites using modern tech stacks such as JavaScript, Typescript, React, Next.js, Node.js, SCSS and SaSS.
 
 
 ## Check my current projects!
+### > Commercial Projects
+
+[**Static Official Websitee**](https://github.com/volant97/Crosswalk)
+
+[**E-commerce Website 1**](https://hellojupiter.com/)
+
+[**E-commerce Website 2**]([https://github.com/volant97/Crosswalk](https://kimai.com/))
+
 ### > Group Projects
 
 [**Soulmate Matching Service**](https://github.com/volant97/Crosswalk)
