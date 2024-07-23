@@ -27,7 +27,7 @@ I am a person who loves to explore codes and especially fell in love with front-
 
 [**E-commerce Website 1**](https://hellojupiter.com/)
 
-[**E-commerce Website 2**]([https://github.com/volant97/Crosswalk](https://kimai.com/))
+[**E-commerce Website 2**](https://github.com/volant97/Crosswalk](https://kimai.com/)
 
 ### > Group Projects
 
