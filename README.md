@@ -23,11 +23,7 @@ I am a person who loves to explore codes and especially fell in love with front-
 ## Check my current projects!
 ### > Commercial Projects
 
-[**Static Official Websitee**](https://github.com/volant97/Crosswalk)
-
-[**E-commerce Website 1**](https://hellojupiter.com/)
-
-[**E-commerce Website 2**](https://kimai.com/)
+please, email me ( gracelyn.h.lee@gmail.com ) to discuss further!
 
 ### > Group Projects
 
