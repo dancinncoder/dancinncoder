@@ -13,7 +13,7 @@ I am a person who loves to explore codes and especially fell in love with front-
 
 ## **What makes you special as a developer?**
 
-**I can answer with two keywords** : digital marekting / language
+**I can answer with two keywords** : digital marekting / fast-paced environment work experience
 
 1️⃣ I have B2B digital marketing insights due to the 2 years of field experience as a digital marketing specialist focusing on planning campaign landing pages and content creation.
 
