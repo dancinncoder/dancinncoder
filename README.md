@@ -9,15 +9,15 @@
 
 ## Check my current projects
 
-#### > Real-time Communication, CRUD  :  [**Soulmate Matching Service**](https://github.com/volant97/Crosswalk) / JS, TS, React, Next, Supabase, Recoil, Tailwind, PostgreSQL
+#### > Real-time Communication, CRUD  :  👁️ [**Dating App**](https://youtu.be/UCXVQDNdLGU?feature=shared)  🖥️ [**Code**](https://github.com/volant97/Crosswalk) / JS, TS, React, Next, Supabase, Recoil, Tailwind, PostgreSQL
 
-#### > Data Processor : [**Data Processor**](https://react-arr-api.vercel.app/) / JS, React
+#### > Data Processor : 👁️ [**Data Processor**](https://react-arr-api.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/data-processor)/ JS, React
 
-#### > Map API, CRUD  : [**Flatmate Search Website**](https://github.com/yeolsss/outsourcing-project) / JS, React, React-query, Redux(RTK), Firebase
+#### > Map API, CRUD  : 👁️ [**Flatmate Search Website**](https://outsourcing-project.vercel.app/) 🖥️ [**Code**](https://github.com/yeolsss/outsourcing-project) / JS, React, React-query, Redux(RTK), Firebase
 
-#### > Movie Data API, CRUD  : [**Find Movie Website**](https://github.com/cceminh/team6-moviesearchsite) / JS
+#### > Movie Data API, CRUD  : 👁️ [**Find Movie Website**](https://cceminh.github.io/team6-moviesearchsite/) 🖥️ [**Code**](https://github.com/cceminh/team6-moviesearchsite) / JS
 
-#### > CRUD : [**Fan Letter Website**](https://github.com/dancinncoder/fanletter/tree/context2?tab=readme-ov-file) / JS, React, Redux, ContextAPI
+#### > CRUD : 👁️ [**Fan Letter Website**](https://fanletter.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/fanletter/tree/context2?tab=readme-ov-file) / JS, React, Redux, ContextAPI
 
 
 
