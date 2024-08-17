@@ -9,7 +9,7 @@
 
 ## Check my current projects
 
-#### > Real-time Communication, CRUD  :  [**Soulmate Matching Service**](https://github.com/volant97/Crosswalk) / JS, TS, React, Next.js, Supabase, Recoil, Tailwind, PostgreSQL
+#### > Real-time Communication, CRUD  :  [**Soulmate Matching Service**](https://github.com/volant97/Crosswalk) / JS, TS, React, Next, Supabase, Recoil, Tailwind, PostgreSQL
 
 #### > Data Processor : [**Data Processor**](https://react-arr-api.vercel.app/) / JS, React
 
