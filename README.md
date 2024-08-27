@@ -9,9 +9,11 @@
 
 ## Check my current projects
 
-#### > Real-time Communication, CRUD  :  👁️ [**Dating App**](https://youtu.be/UCXVQDNdLGU?feature=shared)  🖥️ [**Code**](https://github.com/volant97/Crosswalk) / JS, TS, React, Next, Supabase, Recoil, Tailwind, PostgreSQL
+#### > Data Visualization : 👁️ [**Data Visualization**](https://news-blush-kappa.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/news)/ JS, React
 
 #### > Data Processor : 👁️ [**Data Processor**](https://react-arr-api.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/data-processor)/ JS, React
+
+#### > Real-time Communication, CRUD  :  👁️ [**Dating App**](https://youtu.be/UCXVQDNdLGU?feature=shared)  🖥️ [**Code**](https://github.com/volant97/Crosswalk) / JS, TS, React, Next, Supabase, Recoil, Tailwind, PostgreSQL
 
 #### > Map API, CRUD  : 👁️ [**Flatmate Search Website**](https://outsourcing-project.vercel.app/) 🖥️ [**Code**](https://github.com/yeolsss/outsourcing-project) / JS, React, React-query, Redux(RTK), Firebase
 
