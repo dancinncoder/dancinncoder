@@ -9,7 +9,7 @@
 
 ## Check my current projects
 
-#### > CRUD with Client-side state mangement : 👁️ [**Fan Letter Website**](https://reduxfanletter.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/fanletter/tree/redux?tab=readme-ov-file) / JS, React, Redux, ContextAPI
+#### > CRUD with Client-side State Management : 👁️ [**Fan Letter Website**](https://reduxfanletter.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/fanletter/tree/redux?tab=readme-ov-file) / JS, React, Redux, ContextAPI
 
 #### > Data Visualization(Charts) : 👁️ [**Data Visualization**](https://news-blush-kappa.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/news)/ JS, React
 
