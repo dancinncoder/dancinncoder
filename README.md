@@ -19,7 +19,7 @@
 
 #### > Movie Data API, CRUD  : 👁️ [**Find Movie Website**](https://cceminh.github.io/team6-moviesearchsite/) 🖥️ [**Code**](https://github.com/cceminh/team6-moviesearchsite) / JS
 
-#### > CRUD : 👁️ [**Fan Letter Website**](https://fanletter.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/fanletter/tree/redux?tab=readme-ov-file) / JS, React, Redux, ContextAPI
+#### > CRUD : 👁️ [**Fan Letter Website**](https://reduxfanletter.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/fanletter/tree/redux?tab=readme-ov-file) / JS, React, Redux, ContextAPI
 
 
 
