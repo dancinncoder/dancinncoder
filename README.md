@@ -9,9 +9,11 @@
 
 ## Check my current projects
 
-#### > Data Visualization : 👁️ [**Data Visualization**](https://news-blush-kappa.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/news)/ JS, React
+#### > CRUD with Client-side state mangement : 👁️ [**Fan Letter Website**](https://reduxfanletter.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/fanletter/tree/redux?tab=readme-ov-file) / JS, React, Redux, ContextAPI
 
-#### > Data Processor : 👁️ [**Data Processor**](https://react-arr-api.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/data-processor)/ JS, React
+#### > Data Visualization(Charts) : 👁️ [**Data Visualization**](https://news-blush-kappa.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/news)/ JS, React
+
+#### > Data Manipulation : 👁️ [**Data Processor**](https://react-arr-api.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/data-processor)/ JS, React
 
 #### > Real-time Communication, CRUD  :  👁️ [**Dating App**](https://youtu.be/UCXVQDNdLGU?feature=shared)  🖥️ [**Code**](https://github.com/volant97/Crosswalk) / JS, TS, React, Next, Supabase, Recoil, Tailwind, PostgreSQL
 
@@ -19,7 +21,6 @@
 
 #### > Movie Data API, CRUD  : 👁️ [**Find Movie Website**](https://cceminh.github.io/team6-moviesearchsite/) 🖥️ [**Code**](https://github.com/cceminh/team6-moviesearchsite) / JS
 
-#### > CRUD : 👁️ [**Fan Letter Website**](https://reduxfanletter.vercel.app/) 🖥️ [**Code**](https://github.com/dancinncoder/fanletter/tree/redux?tab=readme-ov-file) / JS, React, Redux, ContextAPI
 
 
 
